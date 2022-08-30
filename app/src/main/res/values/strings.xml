@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="retry">Retry</string>
+    <string name="created_at">Created at :</string>
+    <string name="closed_at">Closed at :</string>
+    <string name="no_internet_message">No Internet!\nPlease connect to internet to us the app.</string>
+    <string name="connect">Connect</string>
+</resources>
